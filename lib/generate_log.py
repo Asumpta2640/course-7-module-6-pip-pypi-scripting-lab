@@ -1,5 +1,5 @@
 from datetime import datetime
-import os
+#import os
 
 def generate_log(data):
     # TODO: Implement log generation logic
@@ -19,7 +19,7 @@ def generate_log(data):
 
 
     # STEP 4: Print a confirmation message with the filename
-    print(f"Log file '{filename}' has been created successfully.")
+    #print(f"Log file '{filename}' has been created successfully.")
 
     return filename  
     
